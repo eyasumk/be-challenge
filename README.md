@@ -1,5 +1,3 @@
-# DPS Backend Coding Challenge
-
 ## Overview: Round-Robin Tournament Service
 
 Your task is to build a backend service to manage round-robin sports tournaments. In a round-robin tournament, each participant must play against every other participant exactly once.
