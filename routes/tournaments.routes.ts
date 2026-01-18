@@ -1,6 +1,6 @@
 import { Router } from "express";
 import { db } from "../db";
-import { getLeaderboard, getTournamentStatus } from "../services/tournament.service";
+import { getLeaderboard, getTournamentStatus } from "../src/services/tournament.service";
 
 export const tournamentsRouter = Router();
 
